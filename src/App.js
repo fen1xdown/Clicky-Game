@@ -82,7 +82,7 @@ class App extends Component {
           Good job, keep it up!
           </div>
         <Scoreboard
-          title="Just Another Clicky Game"
+          title="Tank Destroyer Clicky Game"
           score={this.state.score}
           topScore={this.state.topScore}
         />
